@@ -6,5 +6,5 @@ mechanisms can effectively extract features such as contours, shapes, and colors
 among lightweight models.
 ![image](https://github.com/user-attachments/assets/bbfe3719-3d7b-4f8f-8e1f-7961cccd7864)
 
-
+If you want to train RSVDet, just install the required environment for YOLOv8 and click on the main.py in your home directory.
 Cite ：https://ieeexplore.ieee.org/document/11224383
